@@ -12,11 +12,11 @@
 
 ## Documentation
 
-See the [documentation](https://laravel-lang.com/packages-country-names.html) for detailed installation.
+See the [documentation](https://laravel-lang.com/20.x/locales#look-up-locale-country-and-currency-names) for detailed installation.
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for details.
+Please see [CONTRIBUTING](https://laravel-lang.com/20.x/contributing) for details.
 
 ## Support Us
 
@@ -24,7 +24,7 @@ Please see [CONTRIBUTING](https://laravel-lang.com/contributions.html) for detai
 
 ## License
 
-This package is licensed under the [MIT License](https://laravel-lang.com/license.html).
+This package is licensed under the [MIT License](https://laravel-lang.com/20.x/license).
 
 [badge_stable]: https://img.shields.io/github/v/release/Laravel-Lang/country-names?label=stable&style=flat-square
 [badge_unstable]: https://img.shields.io/badge/unstable-dev--main-orange?style=flat-square
